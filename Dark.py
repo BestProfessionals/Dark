@@ -1,3 +1,3 @@
-form SS import awm
+from SS import awm
 
 awm()
