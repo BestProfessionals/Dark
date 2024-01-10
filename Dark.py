@@ -1,3 +1,3 @@
-from SS import awm
+from Dark64 import awm
 
 awm()
