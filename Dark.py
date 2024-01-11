@@ -1,3 +1,3 @@
-from Dark64 import awm
+from DARK64 import awm
 
 awm()
